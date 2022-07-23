@@ -1,4 +1,5 @@
 import Header from "./components/Header";
+import CVform from "./components/CVform";
 
 
 function App() {
@@ -12,7 +13,7 @@ function App() {
   return (
     <div >
       < Header />
-      <h1 className="text-2xl font-bold underline">hello</h1>
+      <CVform />
     </div>
   )
 }

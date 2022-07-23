@@ -5,7 +5,7 @@ import App from './App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <div className='text-3xl font-bold underline'>
+  <div className=''>
     <App />
   </div>
 )
